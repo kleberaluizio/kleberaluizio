@@ -1,21 +1,30 @@
-### Hi there 👋
+### Hey there, I'm Kleber Aluizio! 👋
+<div style="text-align: justify">
+- 🔭 I'm a Mechanical Engineer with a master's degree in mechanical engineering. I’m currently working as a Software Developer on a Brazilian company specializing in business process automation and management. Over the past few years, I have also been teaching courses to aspiring engineers at several universities in southern Brazil, including IFSC, UDESC, and UniSENAI 
+</div>
 
-- 🌱 Tenho estudado programação orientada a objetos e utilizado as seguintes tecnologias:
+<div style="text-align: justify">
+  <br />
+- 🌱 I'm a continous learner with a strong curiosity. Problem-solving is my passion and I love applying what I've learned to practical situations. 
+</div>
+<br/>
 
+### Technology stack:
   - Java
   - Spring Framework (Spring Boot, Spring Data JPA, Spring Validation e Spring MVC)
-  - Banco de dados MySQL
-  - Design de API REST
-  - Controle de versão (Git e Github)
-  - Maven (Gestão de dependências)
-  - Flyway (utilizo para gerenciamento e aplicação de alterações em banco de dados)
-  - Postman (utilizo para testar as APIs)
-  - HTML e CSS
+  - Relational Database: MySQL
+  - API REST design
+  - Version Controle (Git e Github)
+  - Maven (Dependency Management)
+  - Flyway (Management and version control of database)
+  - Postman (Testing endpoints)
+  - HTML, CSS and Javascript
   - Linux
 
-- 🔭 Sou engenheiro mecânico, mestre em engenharia mecânica pela UFSC e atualmente leciono nos cursos de engenharia e tecnologia da UniSENAI. Como professor aprimorei minha capacidade de comunicar ideias complexas de maneira clara e objetiva. Sou fluente em inglês e tenho dedicado tempo em aprimorar minhas habilidades em desenvolvimento de software com ênfase em programação backend.
-  
 <!--
+
+In addition, I have been teaching courses to aspiring engineers at several universities in southern Brazil, including IFSC, UDESC, and UniSENAI.
+
 **kleberaluizio/kleberaluizio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
