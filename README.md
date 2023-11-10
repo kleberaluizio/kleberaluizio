@@ -1,6 +1,6 @@
 ### Hey there, I'm Kleber Aluizio! 👋
 <div style="text-align: justify">
-- 🔭 I'm a Mechanical Engineer with a master's degree in mechanical engineering. I’m currently working as a Software Developer on a Brazilian company specializing in business process automation and management. Over the past few years, I have also been teaching courses to aspiring engineers at several universities in southern Brazil, including IFSC, UDESC, and UniSENAI 
+- 🔭 I'm a Mechanical Engineer with a master's degree in mechanical engineering. I’m currently working as a Software Developer on a Brazilian company specializing in business process automation and management. Over the past few years, I have also been teaching courses to aspiring engineers at several universities in southern Brazil, including IFSC, UDESC, and UniSENAI where I'm currently working as well.
 </div>
 
 <div style="text-align: justify">
@@ -18,7 +18,7 @@
   - Maven (Dependency Management)
   - Flyway (Management and version control of database)
   - Postman (Testing endpoints)
-  - HTML, CSS and Javascript
+  - HTML, CSS and Javascript (AngularJs and Vue)
   - Linux
 
 <!--
