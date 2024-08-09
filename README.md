@@ -12,9 +12,9 @@
 ### Technology stack:
   - Java
   - Spring Framework (Spring Boot, Spring Data JPA, Spring Validation e Spring MVC)
-  - Relational Database: MySQL
+  - Relational Database: SQL Server, MySQL e Oracle
   - API REST design
-  - Version Controle (Git e Github)
+  - Version Control (Git e Gitlab/Github)
   - Maven (Dependency Management)
   - Flyway (Management and version control of database)
   - Postman (Testing endpoints)
