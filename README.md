@@ -1,11 +1,13 @@
 ### Hey there, I'm Kleber Aluizio! 👋
 <div style="text-align: justify">
-- 🔭 I'm a Mechanical Engineer with a master's degree in mechanical engineering. I’m currently working as a Software Developer on a Brazilian company specializing in business process automation and management. Over the past few years, I have also been teaching courses to aspiring engineers at several universities in southern Brazil, including IFSC, UDESC, and UniSENAI where I'm currently working.
+🔭 I’m currently working as software Developer at TOTVS. I work on building new features for the Gesplan line, solutions for treasury management and financial planning for companies. 
+ 
+I'm a Mechanical Engineer with a master's degree in mechanical engineering and over the past few years, I have also been teaching courses to aspiring engineers at several universities in southern Brazil, including IFSC, UDESC, and UniSENAI where I'm currently working.
 </div>
 
 <div style="text-align: justify">
   <br />
-- 🌱 I'm a continous learner with a strong curiosity. Problem-solving is my passion and I love applying what I've learned to practical situations. 
+🌱 I'm a continous learner with a strong curiosity. Problem-solving is my passion and I love applying what I've learned to practical situations. 
 </div>
 <br/>
 
