@@ -13,14 +13,15 @@ I'm a Mechanical Engineer with a master's degree in mechanical engineering and o
 
 ### Technology stack:
   - Java
+  - Jakarta EE
   - Spring Framework (Spring Boot, Spring Data JPA, Spring Validation e Spring MVC)
   - Relational Database: SQL Server, MySQL e Oracle
   - API REST design
-  - Version Control (Git e Gitlab/Github)
+  - Version Control (Git e Gitlab/Github/Bitbucket)
   - Maven (Dependency Management)
   - Flyway (Management and version control of database)
   - Postman (Testing endpoints)
-  - HTML, CSS and Javascript (AngularJs and Vue)
+  - HTML, CSS and Javascript (AngularJs/Vue/React)
   - Linux
 
 <!--
