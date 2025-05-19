@@ -20,8 +20,9 @@ I'm a Mechanical Engineer with a master's degree in mechanical engineering and o
   - Version Control (Git e Gitlab/Github/Bitbucket)
   - Maven (Dependency Management)
   - Flyway and Liquibase (Management and version control of database)
-  - Postman (Testing endpoints)
-  - HTML, CSS and Javascript (AngularJs/React)
+  - Postman and Insomnia (Testing endpoints)
+  - CI/CD (Jenkins and ArgoCD)
+  - HTML, CSS and Javascript (AngularJs, React, JQuery)
   - Linux
 
 <!--
